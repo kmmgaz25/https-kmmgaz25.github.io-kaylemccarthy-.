@@ -1,0 +1,10 @@
+cd path/to/kayle-portfolio-manus
+git init
+git add .
+git commit -m "Initial commit of Kayle McCarthy's portfolio"
+
+git remote add origin https://github.com/kmmgaz25/kaylemccarthy.git
+
+git push -u origin master
+
+https://kmmgaz25.github.io/kaylemccarthy/
