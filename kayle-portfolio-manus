@@ -8,3 +8,12 @@ git remote add origin https://github.com/kmmgaz25/kaylemccarthy.git
 git push -u origin master
 
 https://kmmgaz25.github.io/kaylemccarthy/
+
+npm install
+npm run dev
+
+
+
+  
+  
+  
